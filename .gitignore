@@ -1,0 +1,104 @@
+# -------------------------
+# Laravel & Framework Files
+# -------------------------
+
+/vendor/
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Laravel storage
+/storage/*.key
+/public/storage
+/storage/logs/*.log
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+/storage/framework/cache/*
+/storage/debugbar/*
+
+# Composer
+composer.phar
+composer.lock
+
+# -------------------------
+# Node / Vite
+# -------------------------
+
+node_modules/
+npm-debug.log
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.vite
+vite.config.ts.timestamp-*
+
+# -------------------------
+# IDE / System / Temp Files
+# -------------------------
+
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# -------------------------
+# Public Builds
+# -------------------------
+
+public/build/
+public/hot
+public/mix-manifest.json
+
+# Laravel Cache
+bootstrap/cache/*.php
+bootstrap/cache/packages.php
+bootstrap/cache/services.php
+
+# Logs
+*.log
+
+# -------------------------
+# Testing / Coverage
+# -------------------------
+
+coverage/
+.phpunit.result.cache
+
+# -------------------------
+# Database (!!! Do NOT commit !!!)
+# -------------------------
+
+# SQLite
+*.sqlite
+*.sqlite3
+database/*.sqlite
+database/*.sqlite3
+
+# MySQL / MariaDB dump files
+*.sql
+*.sql.gz
+*.sql.zip
+*.dump
+*.db
+*.db3
+
+# Database backup folders
+/database/backups/
+storage/backups/
+
+# -------------------------
+# User Uploads (optional)
+# -------------------------
+public/uploads/
