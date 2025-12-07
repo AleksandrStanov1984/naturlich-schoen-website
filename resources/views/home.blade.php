@@ -60,6 +60,9 @@
 
 @include('partials.about-me')
 
+@include('partials.carousel')
+
+
 
 
 

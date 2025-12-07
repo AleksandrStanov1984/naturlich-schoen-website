@@ -18,8 +18,16 @@
                     <span class="accordion-icon text-2xl leading-none">+</span>
                 </button>
 
-                <div class="accordion-content px-6 pb-4 text-green-800 text-sm hidden">
+                <div class="accordion-content px-6 pt-2 pb-6 text-green-800 text-sm
+                                max-h-0 overflow-hidden transition-all duration-300">
+
                     <p>
+                        Mein Name ist Iluta Käfer — Kosmetikerin mit Leidenschaft für natürliche
+                        Pflege, Wellness und Entspannung. Ich arbeite seit Jahren mit sanften,
+                        hochwertigen Methoden, die Körper und Seele unterstützen.
+                        Mein Name ist Iluta Käfer — Kosmetikerin mit Leidenschaft für natürliche
+                        Pflege, Wellness und Entspannung. Ich arbeite seit Jahren mit sanften,
+                        hochwertigen Methoden, die Körper und Seele unterstützen.
                         Mein Name ist Iluta Käfer — Kosmetikerin mit Leidenschaft für natürliche
                         Pflege, Wellness und Entspannung. Ich arbeite seit Jahren mit sanften,
                         hochwertigen Methoden, die Körper und Seele unterstützen.
@@ -35,9 +43,17 @@
                     <span class="accordion-icon text-2xl leading-none">+</span>
                 </button>
 
-                <div class="accordion-content px-6 pb-4 text-green-800 text-sm hidden">
+                <div class="accordion-content px-6 pt-2 pb-6 text-green-800 text-sm
+                                max-h-0 overflow-hidden transition-all duration-300">
+
                     <p>
                         Ich glaube an natürliche Schönheit und individuelle Behandlungen, die
+                        auf Harmonie, Ruhe und Wohlbefinden basieren. Jeder Mensch ist einzigartig —
+                        und jede Behandlung wird darauf abgestimmt.
+                        ch glaube an natürliche Schönheit und individuelle Behandlungen, die
+                        auf Harmonie, Ruhe und Wohlbefinden basieren. Jeder Mensch ist einzigartig —
+                        und jede Behandlung wird darauf abgestimmt.
+                        ch glaube an natürliche Schönheit und individuelle Behandlungen, die
                         auf Harmonie, Ruhe und Wohlbefinden basieren. Jeder Mensch ist einzigartig —
                         und jede Behandlung wird darauf abgestimmt.
                     </p>
@@ -52,14 +68,26 @@
                     <span class="accordion-icon text-2xl leading-none">+</span>
                 </button>
 
-                <div class="accordion-content px-6 pb-4 text-green-800 text-sm hidden">
+                <div class="accordion-content px-6 pt-2 pb-6 text-green-800 text-sm
+                                max-h-0 overflow-hidden transition-all duration-300">
+
                     <p>
+                        Weil ich Schönheit nicht als „Make-up“, sondern als ein Gefühl verstehe.
+                        In meinem Studio findest du Ruhe, Wohlbefinden und Behandlungen,
+                        die dich von innen strahlen lassen.
+                        Weil ich Schönheit nicht als „Make-up“, sondern als ein Gefühl verstehe.
+                        In meinem Studio findest du Ruhe, Wohlbefinden und Behandlungen,
+                        die dich von innen strahlen lassen.
+                        Weil ich Schönheit nicht als „Make-up“, sondern als ein Gefühl verstehe.
+                        In meinem Studio findest du Ruhe, Wohlbefinden und Behandlungen,
+                        die dich von innen strahlen lassen.
                         Weil ich Schönheit nicht als „Make-up“, sondern als ein Gefühl verstehe.
                         In meinem Studio findest du Ruhe, Wohlbefinden und Behandlungen,
                         die dich von innen strahlen lassen.
                     </p>
                 </div>
             </div>
+
 
         </div>
 
